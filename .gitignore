@@ -4,4 +4,7 @@
 /public/storage
 Homestead.yaml
 Homestead.json
+composer.lock
 .env
+/.idea
+/storage
